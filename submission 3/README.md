@@ -11,7 +11,7 @@ Third Edition
 Springer
 
 Link to the book:
-
+https://github.com/rashik07/CSE707/blob/main/submission%203/Principles%20of%20Distributed%20Database%20Systems%20by%20M%20Tamer%20Ozsu%20and%20Patrick%20Valduriez.pdf
 
 
 
